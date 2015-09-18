@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">MyTemplate1</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="find_scientist">ค้นหานักวิทยาศาสตร์</string>
+    <string name="enter_scientist_name">กรอกชื่อนักวิทยาศาสต์</string>
+    <string name="tag">TAG</string>
+    <string name="keyword">KEYWORD</string>
+    <string name="find">ค้นหา</string>
+    <string name="clear">ล้างข้อมูล</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="action_logout">Log Out</string>
+
+
+    <string-array name="organizations">
+        <item>เลือกหน่วยงาน</item>
+        <item>ไม่ระบุ</item>
+        <item>กรมวิทยาศาสตร์บริการ</item>
+        <item>กระทรวงวิทยาศาสตร์และเทคโนโลยี</item>
+        <item>จุฬาลงกรณ์มหาวิทยาลัย</item>
+        <item>ฝึกอบรมภาคกลาง</item>
+        <item>ฝึกอบรมภาคใต้</item>
+        <item>ฝึกอบรมภาคเหนือ</item>
+    </string-array>
+
+    <string-array name="main_groups">
+        <item>กลุ่มความเชี่ยวชาญ (หลัก) (ไม่ระบุ)</item>
+        <item>สาขาเกษตรและชีววิทยา</item>
+        <item>สาขาเคมีนิวเคลียร์</item>
+        <item>สาขาเทคโนโลยีนิวเคลียร์</item>
+        <item>สาขาเทคโนโลยีสารสนเทศและนิเทศศาสตร์</item>
+        <item>สาขารังสีประยุกต์</item>
+        <item>สาขาวิทยาศาตร์กายภาพและคณิตศาสตร์</item>
+        <item>สาขาวิทยาศาสตร์การแพทย์</item>
+    </string-array>
+
+    <string-array name="sub_groups">
+        <item>กลุ่มความเชี่ยวชาญ (ย่อย) (ไม่ระบุ)</item>
+        <item>สาขาเกษตรและชีววิทยา</item>
+        <item>สาขาเคมีนิวเคลียร์</item>
+        <item>สาขาเทคโนโลยีนิวเคลียร์</item>
+        <item>สาขาเทคโนโลยีสารสนเทศและนิเทศศาสตร์</item>
+        <item>สาขารังสีประยุกต์</item>
+        <item>สาขาวิทยาศาตร์กายภาพและคณิตศาสตร์</item>
+        <item>สาขาวิทยาศาสตร์การแพทย์</item>
+    </string-array>
+    <!--ToolBar-->
+    <!--<string name="action_settings">Settings</string>-->
+    <string name="action_user">User</string>
+    <string name="action_search">Search</string>
+    <!--End ToolBar-->
+    <string name="facebook_app_id">900517776704966</string>
+    <string name="title_activity_search_result1">SearchResult</string>
+
+
+</resources>

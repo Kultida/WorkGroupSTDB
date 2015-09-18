@@ -1,0 +1,15 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/prim</item>
+        <item name="colorPrimaryDark">@color/primDark</item>
+        <item name="colorAccent">@color/accent</item>
+    </style>
+
+    <color name="prim">#58d4d4</color>
+    <color name="primDark">#34a4a4</color>
+    <color name="accent">#ff334b</color>
+    <!-- style the overflow menu -->
+
+</resources>
